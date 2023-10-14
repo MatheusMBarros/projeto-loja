@@ -11,7 +11,7 @@ routes.use((req, res, next) => {
 });
 
 routes.get("/" , (req, res, next) => {
-  res.send(":")
+  res.send("")
 })
 
 
